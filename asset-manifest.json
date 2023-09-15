@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/startFrame/static/css/main.a8fdc4a8.css",
+    "main.js": "/startFrame/static/js/main.bbad06ec.js",
+    "static/media/fontawesome-webfont.svg?v=4.7.0": "/startFrame/static/media/fontawesome-webfont.c1e38fd9e0e74ba58f7a.svg",
+    "static/media/fontawesome-webfont.eot": "/startFrame/static/media/fontawesome-webfont.8b43027f47b20503057d.eot",
+    "static/media/fontawesome-webfont.ttf?v=4.7.0": "/startFrame/static/media/fontawesome-webfont.1e59d2330b4c6deb84b3.ttf",
+    "static/media/fontawesome-webfont.woff?v=4.7.0": "/startFrame/static/media/fontawesome-webfont.f691f37e57f04c152e23.woff",
+    "static/media/fontawesome-webfont.woff2?v=4.7.0": "/startFrame/static/media/fontawesome-webfont.20fd1704ea223900efa9.woff2",
+    "static/media/port1.png": "/startFrame/static/media/port1.4417330275f78faa31c3.png",
+    "static/media/port3.png": "/startFrame/static/media/port3.494a4a914b5471b41f3e.png",
+    "static/media/port2.png": "/startFrame/static/media/port2.6554473016d32b343f02.png",
+    "static/media/avataaars.svg": "/startFrame/static/media/avataaars.aa9aff02ddd0ef36a1724ecef4133df9.svg",
+    "index.html": "/startFrame/index.html",
+    "main.a8fdc4a8.css.map": "/startFrame/static/css/main.a8fdc4a8.css.map",
+    "main.bbad06ec.js.map": "/startFrame/static/js/main.bbad06ec.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a8fdc4a8.css",
+    "static/js/main.bbad06ec.js"
+  ]
+}
