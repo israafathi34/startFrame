@@ -1,0 +1,18 @@
+.about{
+    height: 560px;
+  background-color: #1abc9c;
+  color: #fff;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+.about h1 {
+  font-size: 36px;
+  font-weight: bold;
+}
+.col-md-6 p {
+  font-size: 14px;
+  margin-left: 14px;
+  text-align: left;
+}

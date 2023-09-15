@@ -1,0 +1,30 @@
+.navbar {
+  height: 95px;
+  background-color: #2c3e50;
+}
+
+.start{
+  padding: 0px 70px;
+  cursor: pointer;
+}
+.navbar-nav{
+  margin-right: 65px;
+}
+.navbar [class="nav-link"] {
+  color: #fff;
+  text-transform: uppercase;
+  font-size: 15px;
+  font-weight: bold;
+  padding: 5px 10px;
+  
+}
+
+.navbar [class="nav-link"]:hover {
+  cursor: pointer;
+  color: white;
+}
+.navbar [class="nav-item"].active > .nav-link {
+  background-color: #1abc9c;
+  color: #fff;
+  border-radius: 14px;
+}
